@@ -12,7 +12,7 @@ with a slight change since I would not get the camera recognized on my jetsonTX2
 
 git clone git@github.com:AmirYeganesahab/XimeaPythonInstallation.git
 
-cd [downloade dir]
+cd XimeaPythonInstallation
 
 chmod +x ximeaInstaller.sh
 
