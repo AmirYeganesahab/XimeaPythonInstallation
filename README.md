@@ -20,10 +20,10 @@ chmod +x ximeaInstaller.sh
 
 -----------------------------------------------------------------------------
 
-# it will propmt your password to continue installation.
+it will propmt your password to continue installation.
 
-# after installation finished Jetson will reboot automatically.
+after installation finished Jetson will reboot automatically.
 
-# open ximea gui to test if installation was successful.
+open ximea gui to test if installation was successful.
 
-# Please open issue if any problem occures.
+Please open issue if any problem occures.
