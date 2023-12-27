@@ -4,7 +4,7 @@ This repo refers to ximea camera installation for JetsonTX2NX forecr carrier boa
 -----------------------------------------------------------------------------
 
 based on installation procedure in https://www.ximea.com/support/projects/apis/wiki/Linux_TX1_and_TX2_Support
-with a slight change since I would not get the camera recognized on my jetsonTX2NX carrier borad produced by Forecr (DSBOARD-NX2) [https://www.forecr.io/products/dsboard-nx2]
+with a slight change since I could not get the camera recognized on my jetsonTX2NX carrier borad produced by Forecr (DSBOARD-NX2) [https://www.forecr.io/products/dsboard-nx2]
 
 -----------------------------------------------------------------------------
 
